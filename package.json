@@ -1,0 +1,35 @@
+{
+  "name": "wadl2js",
+  "version": "0.1.0",
+  "description": "A utility for building valid JavaScript Classes from WADL and XSD files",
+  "main": "wadl2js.js",
+  "dependencies": {
+    "mkdirp": "~0.5.0",
+    "underscore": "~1.6.0",
+    "xml2js": "~0.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdamMcCormick/wadl2js.git"
+  },
+  "keywords": [
+    "wadl",
+    "javascript",
+    "xsd",
+    "backbone",
+    "ajax",
+    "js",
+    "validate",
+    "xml"
+  ],
+  "author": "Adam McCormick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdamMcCormick/wadl2js/issues"
+  },
+  "homepage": "https://github.com/AdamMcCormick/wadl2js"
+}
